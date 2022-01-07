@@ -19,7 +19,7 @@
 
 <AnchorPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="rmit.s3790516.unilink.controller.PostListViewCellController"
+            fx:controller="rmit.s3790516.unilink.PostListViewCellController"
             prefHeight="102.0" prefWidth="825.0">
     <children>
         <HBox prefHeight="102.0" prefWidth="825.0" spacing="10.0">

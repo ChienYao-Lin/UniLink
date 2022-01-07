@@ -11,7 +11,7 @@
 
 <AnchorPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="rmit.s3790516.unilink.controller.NewPostViewController"
+            fx:controller="rmit.s3790516.unilink.NewPostViewController"
             prefHeight="440.0" prefWidth="655.0">
     <children>
         <Pane fx:id="postColorPane" prefHeight="440.0" prefWidth="163.0">
