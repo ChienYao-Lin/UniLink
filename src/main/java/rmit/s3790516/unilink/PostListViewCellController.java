@@ -1,4 +1,4 @@
-package rmit.s3790516.unilink.controller;
+package rmit.s3790516.unilink;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -57,7 +57,7 @@ public class PostListViewCellController extends ListCell<Post> {
             setGraphic(null);
         } else {
             if (fxmlLoader == null) {
-                fxmlLoader = new FXMLLoader(getClass().getResource("/view/post_list_view_cell.fxml"));
+                fxmlLoader = new FXMLLoader(getClass().getResource("post_list_view_cell.fxml"));
                 fxmlLoader.setController(this);
                 try {
                     fxmlLoader.load();

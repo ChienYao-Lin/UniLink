@@ -1,4 +1,4 @@
-package rmit.s3790516.unilink.controller;
+package rmit.s3790516.unilink;
 
 import javafx.beans.binding.Bindings;
 import javafx.event.ActionEvent;

@@ -1,4 +1,4 @@
-package rmit.s3790516.unilink.controller;
+package rmit.s3790516.unilink;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;

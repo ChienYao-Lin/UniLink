@@ -1,4 +1,4 @@
-package rmit.s3790516.unilink.controller;
+package rmit.s3790516.unilink;
 
 import javafx.beans.Observable;
 import javafx.beans.binding.Bindings;
@@ -115,7 +115,7 @@ public class MainWindowViewController {
 
     @FXML
     private void logOutButtonHandler(ActionEvent actionEvent) {
-        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/view/login_view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("login_view.fxml"));
         try {
             Parent root = fxmlLoader.load();
             Stage stage = new Stage();
