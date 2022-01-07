@@ -1,7 +1,5 @@
 package rmit.s3790516.unilink;
 
-import rmit.s3790516.unilink.controller.LoginViewController;
-import rmit.s3790516.unilink.controller.MainWindowViewController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.*;

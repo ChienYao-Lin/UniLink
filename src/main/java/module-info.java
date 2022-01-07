@@ -12,6 +12,4 @@ module rmit.s3790516.unilink {
 
     opens rmit.s3790516.unilink to javafx.fxml;
     exports rmit.s3790516.unilink;
-    exports rmit.s3790516.unilink.controller;
-    opens rmit.s3790516.unilink.controller to javafx.fxml;
 }

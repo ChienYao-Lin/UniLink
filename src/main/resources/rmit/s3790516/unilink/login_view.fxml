@@ -9,7 +9,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane minHeight="175.0" minWidth="420.0" prefHeight="175.0" prefWidth="420.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="rmit.s3790516.unilink.controller.LoginViewController">
+<BorderPane minHeight="175.0" minWidth="420.0" prefHeight="175.0" prefWidth="420.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="rmit.s3790516.unilink.LoginViewController">
    <top>
       <VBox alignment="CENTER" prefHeight="58.0" prefWidth="420.0" BorderPane.alignment="CENTER">
          <children>
